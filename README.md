@@ -1,1 +1,2 @@
-# hiو my name is amin
+![header](/src/cover.jpg)
+# hi 👋, my name is amin
