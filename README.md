@@ -15,24 +15,24 @@ I have a perfectionist personality and am particularly meticulous when it comes 
 
 # 📊 GitHub Stats:
 
-<div align="left">
+
   <a href="https://github.com/aminabdiii">
     <img src="https://github-readme-stats.vercel.app/api?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false" alt="" />
-  </a>
-</div>
+  </a> <br/>
 
 
-<div align="center">
+
+
   <a href="https://github.com/aminabdiii">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="" />
-  </a>
-</div>
+  </a><br/>
 
-<div align="left">
+
+
   <a href="https://github.com/aminabdiii">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminabdiii&theme=aura&hide_border=true" alt="" />
-  </a>
-</div>
+  </a><br/>
+
 
 
 
