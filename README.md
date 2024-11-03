@@ -19,31 +19,20 @@ I have a perfectionist personality and am particularly meticulous when it comes 
 
 
   <a href="https://github.com/aminabdiii">
-    <img src="https://github-readme-stats.vercel.app/api?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false" alt="stats" />
   </a> <br/>
 
 
 
 
   <a href="https://github.com/aminabdiii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="stats" />
   </a><br/>
 
 
 
-  <a href="https://github.com/aminabdiii">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminabdiii&theme=aura&hide_border=true" alt="" />
-  </a><br/>
-
-
-
-
+<a href="https://github.com/aminabdiii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aminabdiii&theme=aura&hide_border=true" alt="streak-stats" /></a><br/>
 
 ### 🔝 Top Contributed Repo
 
-<div align="center">
-  <a href="https://github.com/aminabdiii">
-    <img src="https://github-contributor-stats.vercel.app/api?username=aminabdiii&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="" />
-  </a>
-</div>
-
+<a href="https://github.com/aminabdiii"><img src="https://github-contributor-stats.vercel.app/api?username=aminabdiii&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="contributor-stats" /></a>
