@@ -9,7 +9,7 @@ I have a perfectionist personality and am particularly meticulous when it comes 
 
 <div align="center">
   <a href="https://github.com/aminabdiii">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite,mongodb,supabase,materialui" alt="my skills" />
+    <img src="https://skillicons.dev/icons?i=react,js,redux,html,css,tailwind,vite,mongodb,postman,supabase,materialui,npm" alt="my skills" />
   </a>
 </div>
 
