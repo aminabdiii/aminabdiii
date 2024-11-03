@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/aminabdiii/aminabdiii/refs/heads/main/Asset%206%402x.png)
+[![header](https://raw.githubusercontent.com/aminabdiii/aminabdiii/refs/heads/main/Asset%206%402x.png)](https://github.com/aminabdiii)
   # 💫 Hi, My name is Amin:
 
 
