@@ -11,9 +11,9 @@ I have a perfectionist personality and am particularly meticulous when it comes 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite,mongodb,supabase,materialui)](https://github.com/aminabdiii)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aminabdiii&theme=aura&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![](https://github-readme-stats.vercel.app/api?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false)](https://github.com/aminabdiii)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=aminabdiii&theme=aura&hide_border=true)](https://github.com/aminabdiii)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/aminabdiii)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aminabdiii&limit=5&theme=aura&combine_all_yearly_contributions=true)
+[![](https://github-contributor-stats.vercel.app/api?username=aminabdiii&limit=5&theme=aura&combine_all_yearly_contributions=true)](https://github.com/aminabdiii)
