@@ -1,4 +1,4 @@
-[![header](https://raw.githubusercontent.com/aminabdiii/aminabdiii/refs/heads/main/Asset%206%402x.png)](https://github.com/aminabdiii)
+[![banner](https://raw.githubusercontent.com/aminabdiii/aminabdiii/refs/heads/main/Asset%206%402x.png)](https://github.com/aminabdiii)
 ## Hi 👋, My name is Amin abdi:
 born on January 31, 2006. I’m 18 years old and have been involved in front-end development for about a year and a half now. I’ve gained hands-on experience with technologies such as HTML, CSS, Tailwind CSS, JavaScript, React JS, MUI, Supabase, React Query, React Router, and more...
 
@@ -26,12 +26,12 @@ I have a perfectionist personality and am particularly meticulous when it comes 
 
 
   <a href="https://github.com/aminabdiii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="most used language" />
   </a><br/>
 
 
 
-<a href="https://github.com/aminabdiii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aminabdiii&theme=aura&hide_border=true" alt="streak-stats" /></a><br/>
+<a href="https://github.com/aminabdiii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aminabdiii&theme=aura&hide_border=true" alt="Contributions" /></a><br/>
 
 ### 🔝 Top Contributed Repo
 
