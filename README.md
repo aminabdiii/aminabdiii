@@ -14,6 +14,20 @@ I have a perfectionist personality and am particularly meticulous when it comes 
 </div>
 
 
+## ✅ My Projects:
+
+<ul>
+  <li>
+    <a href="https://amin-store-xi.vercel.app">Amin Store 🛒</a>
+  </li>
+  <li>
+    <a href="https://amin-movie.vercel.app">Amin Movie 🍿</a>
+  </li>
+  <li>
+    <a href="https://amin-note.vercel.app">Amin Note 📓</a>
+  </li>
+</ul>
+
 
 ## 📊 GitHub Stats:
 
