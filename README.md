@@ -9,15 +9,6 @@ born on January 31, 2006. I’m 18 years old and have been involved in front-end
 I have a perfectionist personality and am particularly meticulous when it comes to design. I always strive to ensure that the final product is delivered in the best possible form.
 
 
-## 💻 Tech Stack:
-
-<div align="center">
-  <a href="https://github.com/aminabdiii">
-    <img src="https://skillicons.dev/icons?i=react,js,redux,html,css,tailwind,vite,mongodb,postman,supabase,materialui,npm&perline=9" alt="my skills" />
-  </a>
-</div>
-
-
 ## ✅ My Projects:
 
 <ul>
@@ -31,6 +22,16 @@ I have a perfectionist personality and am particularly meticulous when it comes 
     <a href="https://amin-note.vercel.app">Amin Note</a>
   </li>
 </ul>
+
+
+## 💻 Tech Stack:
+
+<div align="center">
+  <a href="https://github.com/aminabdiii">
+    <img src="https://skillicons.dev/icons?i=react,js,redux,html,css,tailwind,vite,mongodb,postman,supabase,materialui,npm&perline=9" alt="my skills" />
+  </a>
+</div>
+
 
 
 ## 📊 GitHub Stats:
