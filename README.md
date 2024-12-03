@@ -49,9 +49,6 @@ I have a perfectionist personality and am particularly meticulous when it comes 
   </a><br/>
 
 
-
-<a href="https://github.com/aminabdiii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aminabdiii&theme=aura&hide_border=true" alt="Contributions" /></a><br/>
-
 ## 🔝 Top Contributed Repo
 
 <a href="https://github.com/aminabdiii"><img src="https://github-contributor-stats.vercel.app/api?username=aminabdiii&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="contributor-stats" /></a>
