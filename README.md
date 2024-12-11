@@ -28,7 +28,7 @@ I have a perfectionist personality and am particularly meticulous when it comes 
 
 <div align="center">
   <a href="https://github.com/aminabdiii">
-    <img src="https://skillicons.dev/icons?i=react,next,js,redux,html,css,tailwind,mongodb,postman,supabase,materialui&perline=9" alt="my skills" />
+    <img src="https://skillicons.dev/icons?i=react,next,typescript,js,redux,html,css,tailwind,mongodb,postman,supabase,materialui&perline=9" alt="my skills" />
   </a>
 </div>
 
