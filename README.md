@@ -23,7 +23,6 @@ I have a perfectionist personality and am particularly meticulous when it comes 
   </li>
 </ul>
 
-
 ## 💻 Tech Stack:
 
 <div align="center">
@@ -32,22 +31,11 @@ I have a perfectionist personality and am particularly meticulous when it comes 
   </a>
 </div>
 
-
-
 ## 📊 GitHub Stats:
 
-
-  <a href="https://github.com/aminabdiii">
-    <img src="https://github-readme-stats.vercel.app/api?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false" alt="stats" />
-  </a> <br/>
-
-
-
-
-  <a href="https://github.com/aminabdiii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="most used language" />
-  </a><br/>
-
+<a href="https://github.com/aminabdiii"><img src="https://github-readme-stats.vercel.app/api?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false" alt="stats" /></a><br/>
+<a href="https://github.com/aminabdiii">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="most used language" /></a><br/>
 
 ## 🔝 Top Contributed Repo
 
