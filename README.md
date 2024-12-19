@@ -13,6 +13,9 @@ I have a perfectionist personality and am particularly meticulous when it comes 
 
 <ul>
   <li>
+    <a href="https://aminabdi.vercel.app">Portfolio</a>
+  </li>
+  <li>
     <a href="https://amin-store-xi.vercel.app">Amin Store</a>
   </li>
   <li>
