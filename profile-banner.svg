@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title description">
+  <title id="title">Amin Abdi — Software Engineer</title>
+  <desc id="description">A navy banner with violet and blue sculptural shapes, a perspective grid, and Amin Abdi's name and software engineer title.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171d50" />
+      <stop offset="0.55" stop-color="#101b30" />
+      <stop offset="1" stop-color="#0b1424" />
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#693cff" stop-opacity="0.28" />
+      <stop offset="1" stop-color="#693cff" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="violet" x1="0.15" y1="0" x2="0.85" y2="1">
+      <stop stop-color="#c19bff" />
+      <stop offset="0.4" stop-color="#8c65ff" />
+      <stop offset="0.75" stop-color="#5938ed" />
+      <stop offset="1" stop-color="#29299c" />
+    </linearGradient>
+    <linearGradient id="blue" x1="0.15" y1="0" x2="0.8" y2="1">
+      <stop stop-color="#a7baff" />
+      <stop offset="0.4" stop-color="#7584ff" />
+      <stop offset="0.8" stop-color="#5340e7" />
+      <stop offset="1" stop-color="#32238e" />
+    </linearGradient>
+    <linearGradient id="magenta" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#be74f6" />
+      <stop offset="0.45" stop-color="#8a3ee6" />
+      <stop offset="1" stop-color="#473be0" />
+    </linearGradient>
+    <linearGradient id="grid-fade" x1="0" y1="260" x2="0" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0b1424" stop-opacity="0" />
+      <stop offset="1" stop-color="#0b1424" stop-opacity="0.7" />
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="400" rx="24" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="url(#background)" />
+    <ellipse cx="215" cy="170" rx="370" ry="300" fill="url(#halo)" />
+
+    <g fill="none" stroke="#6272ba" stroke-opacity="0.13" stroke-width="1.5">
+      <path d="M-160 400 530 263 1360 400M-100 400 550 263 1270 400M80 400 570 263 1150 400M270 400 590 263 1000 400M460 400 610 263 830 400M650 400 630 263 670 400" />
+      <path d="M0 288H1200M0 313H1200M0 348H1200M0 394H1200" />
+    </g>
+    <rect y="260" width="1200" height="140" fill="url(#grid-fade)" />
+
+    <path d="M-55-40H224C183 12 123 19 91 64 57 111 69 148 35 182-4 221-39 192-55 172Z" fill="url(#violet)" />
+    <path d="M128 88C157 52 222 63 249 106 273 144 246 178 207 179 166 181 153 220 122 203 91 186 96 126 128 88Z" fill="url(#blue)" />
+    <path d="M151 91C176 75 214 81 231 106" fill="none" stroke="#d0d6ff" stroke-opacity="0.3" stroke-width="2" stroke-linecap="round" />
+    <path d="M307 132C301 107 327 96 346 112 365 128 346 145 351 164 356 190 326 198 313 178 300 160 313 151 307 132Z" fill="url(#magenta)" />
+    <path d="M-22 294C10 234 51 217 78 246 100 269 86 297 115 300 148 303 156 250 193 251 229 252 248 293 224 327 193 371 144 414 94 400 59 391 49 352 18 356-21 361-44 335-22 294Z" fill="url(#blue)" />
+    <path d="M299 271C332 255 339 215 363 220 397 228 411 284 390 310 369 338 302 347 282 320 268 302 280 281 299 271Z" fill="url(#violet)" />
+    <path d="M351 237C366 226 384 249 385 269" fill="none" stroke="#e0c7ff" stroke-opacity="0.32" stroke-width="2" stroke-linecap="round" />
+
+    <g fill="none" stroke="#8575ff" stroke-width="2" stroke-opacity="0.55">
+      <path d="m281 57 9 9m0-9-9 9m23-9 9 9m0-9-9 9m23-9 9 9m0-9-9 9m23-9 9 9m0-9-9 9" />
+      <path d="m396 130 18 18-18 18m18-36 18 18-18 18" />
+    </g>
+    <g fill="#7185d8" fill-opacity="0.27">
+      <path d="M1020 60h9v9h-9zm28 0h9v9h-9zm28 0h9v9h-9zm28 0h9v9h-9z" />
+      <path d="M248 356h7v7h-7zm20 0h7v7h-7zm20 0h7v7h-7z" />
+    </g>
+    <g fill="#b9bbff" fill-opacity="0.15">
+      <circle cx="91" cy="91" r="10" />
+      <circle cx="405" cy="67" r="12" />
+      <circle cx="1130" cy="141" r="11" />
+    </g>
+    <g fill="#e8e8ff">
+      <circle cx="91" cy="91" r="2.5" />
+      <circle cx="405" cy="67" r="3" />
+      <circle cx="1130" cy="141" r="2.5" />
+    </g>
+
+    <g font-family="Arial, Helvetica, sans-serif">
+      <path d="m496 63 10-10 10 10-10 10Z" fill="url(#blue)" />
+      <text x="531" y="69" fill="#d4d5ed" font-size="17" letter-spacing="4">AMINAP</text>
+      <text x="490" y="195" fill="#fafaff" font-size="76" font-weight="700" letter-spacing="5">AMIN ABDI</text>
+      <text x="494" y="252" fill="#c3b8ff" font-size="33" font-weight="600" letter-spacing="3">SOFTWARE ENGINEER</text>
+      <path d="M496 280h64" fill="none" stroke="#9276ff" stroke-width="3" />
+      <text x="494" y="326" fill="#c2ccdf" font-size="22" letter-spacing="1">Interfaces. Services. Real-time systems.</text>
+    </g>
+  </g>
+</svg>

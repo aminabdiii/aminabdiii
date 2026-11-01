@@ -1,45 +1,58 @@
 <div align="center">
-  <a href="https://github.com/aminabdiii"><img src="https://raw.githubusercontent.com/aminabdiii/aminabdiii/refs/heads/main/banner-min.png" alt="banner" /></a>
-</div>
-
-
-## Hi 👋, My name is Amin abdi:
-born on January 31, 2006. I’m 18 years old and have been involved in front-end development for about a year and a half now. I’ve gained hands-on experience with technologies such as HTML, CSS, Tailwind CSS, JavaScript, React JS, MUI, Supabase, React Query, React Router, and more...
-
-I have a perfectionist personality and am particularly meticulous when it comes to design. I always strive to ensure that the final product is delivered in the best possible form.
-
-
-## ✅ My Projects:
-
-<ul>
-  <li>
-    <a href="https://aminabdi.vercel.app">Portfolio</a>
-  </li>
-  <li>
-    <a href="https://amin-store-xi.vercel.app">Amin Store</a>
-  </li>
-  <li>
-    <a href="https://amin-movie.vercel.app">Amin Movie</a>
-  </li>
-  <li>
-    <a href="https://amin-note.vercel.app">Amin Note</a>
-  </li>
-</ul>
-
-## 💻 Tech Stack:
-
-<div align="center">
-  <a href="https://github.com/aminabdiii">
-    <img src="https://skillicons.dev/icons?i=react,next,typescript,js,redux,html,css,tailwind,mongodb,postman,supabase,materialui&perline=9" alt="my skills" />
+  <a href="https://aminabdi.vercel.app">
+    <img src="https://raw.githubusercontent.com/aminabdiii/aminabdiii/main/profile-banner.svg" width="1200" alt="Amin Abdi — Software Engineer" />
   </a>
 </div>
 
-## 📊 GitHub Stats:
+# Hi 👋, I'm Amin Abdi
 
-<a href="https://github.com/aminabdiii"><img src="https://github-readme-stats.vercel.app/api?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false" alt="stats" /></a><br/>
-<a href="https://github.com/aminabdiii">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminabdiii&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="most used language" /></a><br/>
+**Software Engineer · Full-stack development · Tehran, Iran**
 
-## 🔝 Top Contributed Repo
+I'm a software engineer at **Gardoon**, building interfaces and the systems behind them. I started with frontend development, and **React, Next.js, and TypeScript** remain my strongest foundation.
 
-<a href="https://github.com/aminabdiii"><img src="https://github-contributor-stats.vercel.app/api?username=aminabdiii&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="contributor-stats" /></a>
+I work on reusable interfaces, real-time application behavior, and backend services. I care about thoughtful design, predictable state, and understanding how a feature works from the screen through the API and data layers.
+
+[Portfolio](https://aminabdi.vercel.app) · [Résumé](https://aminabdi.vercel.app/resume.pdf) · [Technical profile](https://aminabdi.vercel.app/technical-profile.pdf)
+
+## ✅ My Projects
+
+### [Portfolio](https://aminabdi.vercel.app)
+
+My current portfolio, built with Next.js, React, TypeScript, and Tailwind CSS. Explore my work and technical background, with light and dark themes and a contact form.
+
+### Earlier frontend projects
+
+These independent projects are part of my early frontend work:
+
+- **[Amin Store](https://amin-store-xi.vercel.app/)** — A storefront interface exploring commerce layouts and product presentation.
+- **[Amin Note](https://amin-note.vercel.app/)** — A Persian note-taking interface for adding, editing, and marking notes as complete.
+- **[Amin Movie](https://amin-movie.vercel.app/)** — A movie discovery interface exploring how to present film content on the web.
+
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,postgres,redis,docker&amp;perline=5" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, NestJS, PostgreSQL, Redis, and Docker" />
+</div>
+
+- **Frontend:** TypeScript, JavaScript, React, Next.js, Tailwind CSS, MUI, shadcn/ui, HTML, CSS/SCSS; TanStack Query, Jotai, Redux, Zustand, React Hook Form, Zod, and Yup.
+- **Backend:** Node.js, NestJS, REST APIs, JWT/OAuth, authentication, and authorization.
+- **Data:** SQL, PostgreSQL, MySQL/MariaDB, MongoDB, Redis, and Prisma.
+- **Real-time:** WebSocket, Socket.IO, synchronized state, and embeddable interfaces.
+- **Delivery:** Git, Docker, Docker Compose, Linux, Nginx, GitLab CI/CD, PM2, pnpm, Turborepo, and Vite.
+
+## 🌱 Alongside Work
+
+I'm studying for a **B.Sc. in Computer Engineering** at **Islamic Azad University, Islamshahr Branch**.
+
+I'm also learning about **applied AI, LLM-powered applications, and automation** alongside my full-stack work.
+
+## 🤝 Connect
+
+[Email](mailto:aminabdiii2006@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amin-abdi-340273349/) · [Telegram](https://t.me/AminAP9)
+
+<details>
+  <summary>📊 GitHub Activity</summary>
+
+Browse my [contributions](https://github.com/aminabdiii?tab=overview) and [public repositories](https://github.com/aminabdiii?tab=repositories) on GitHub.
+
+</details>
